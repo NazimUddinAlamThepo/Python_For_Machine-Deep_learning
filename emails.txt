@@ -1,0 +1,10 @@
+john.doe@example.com
+JANE.SMITH@GMAIL.COM
+michael_brown@outlook.com
+emily.jones@YAHOO.COM
+john.doe@example.com
+sarah.connor@gmail.com
+JANE.SMITH@GMAIL.COM
+robert.king@company.org
+alex.taylor@GMAIL.com
+MICHAEL_BROWN@OUTLOOK.COM

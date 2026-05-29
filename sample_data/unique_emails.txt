@@ -1,0 +1,7 @@
+alex.taylor@gmail.com
+emily.jones@yahoo.com
+jane.smith@gmail.com
+john.doe@example.com
+michael_brown@outlook.com
+robert.king@company.org
+sarah.connor@gmail.com
